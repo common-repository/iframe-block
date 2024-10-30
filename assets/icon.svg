@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 150 185">
+      <image width="150" height="185" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAC5CAYAAADK+8YBAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKrSURBVHhe7dyhThxRAIbRS1uJbBNwGHwVthKNwCCQpOBQ5RVQOEiQCCoQPAIPgsHBW1DEJEVsarrfZtqcY3Z+/2VuMtnctdc3A5bsw/QLSyUsEsIiISwSwiIhLBLz/NzwdDOOT+/HyzSZqY29cXF1OLam+d48w3q8HAdHd+N5mszU5v64vj0Z29N8z1FIQlgkhEVCWCSERUJYJIRFQlgkhEVCWCSERUJYJIRFQlgkhEVCWCSERUJYJIRFQlgkhEVCWCSERUJYJIRFQlgkhEVCWCSERUJYJBZfY5RcI7Qzzh7Ox+60/sg1Rv8G1xixasIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSwiIhLBLCIiEsEsIiISwSa69vpuffHi/HwdHdeJ7mcuyMs4fzsTst/m/eWCSERUJYJIRFQlgkhEVCWCSERUJYJFb45f3r+P7zx/g2LZbg4/r4/GV9fJrmnKwwLJZuc39c356M7WnOiaOQhLBICIuEsEgIi4SwSAiLhLBICIuEsEgIi4SwSAiLhLBICIuEsEgIi4SwSAiLxOL/vD/djOPT+/EyTWZqY29cXB2OrWnOyeKw4C85CkkIi4SwSAiLhLBICIuEsAiM8Qs7g1VGcys06QAAAABJRU5ErkJggg=="/>
+    </pattern>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-574 -188)">
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(574 188)" fill="#fafafa" stroke="#707070" stroke-width="1">
+      <rect width="256" height="256" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="255" height="255" rx="4.5" fill="none"/>
+    </g>
+    <rect id="Image_1" data-name="Image 1" width="130" height="160" transform="translate(637 212)" fill="url(#pattern)"/>
+    <text id="iFrame_Block" data-name="iFrame Block" transform="translate(611 408)" fill="#404040" font-size="30" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">iFrame Block</tspan></text>
+  </g>
+</svg>
